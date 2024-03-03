@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp/Gentex/GeometryCalculator/GeometryCalculator.csproj": {}
+    "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp2/Gentex/GeometryCalculator/GeometryCalculator.csproj": {}
   },
   "projects": {
-    "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp/Gentex/GeometryCalculator/GeometryCalculator.csproj": {
+    "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp2/Gentex/GeometryCalculator/GeometryCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp/Gentex/GeometryCalculator/GeometryCalculator.csproj",
+        "projectUniqueName": "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp2/Gentex/GeometryCalculator/GeometryCalculator.csproj",
         "projectName": "GeometryCalculator",
-        "projectPath": "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp/Gentex/GeometryCalculator/GeometryCalculator.csproj",
+        "projectPath": "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp2/Gentex/GeometryCalculator/GeometryCalculator.csproj",
         "packagesPath": "/Users/ssedig/.nuget/packages/",
-        "outputPath": "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp/Gentex/GeometryCalculator/obj/",
+        "outputPath": "/Users/ssedig/Library/CloudStorage/OneDrive-Personal/Documents/Personal/Career/Gentex/Temp2/Gentex/GeometryCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ssedig/.nuget/NuGet/NuGet.Config"
